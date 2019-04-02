@@ -1,2 +1,6 @@
 The First File
+<<<<<<< HEAD
 Changes to our file, in our own repository
+=======
+Changes to our file, in the clone
+>>>>>>> 2188f481ce5b8dfd87a10fb58b074ee4de4cdd1e
